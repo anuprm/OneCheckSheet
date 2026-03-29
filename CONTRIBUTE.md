@@ -1,7 +1,6 @@
-# CONTRIBUTE.md
+# Extra.md
 
-Thank you for your interest in making this guide better and to keeping it up to date to help other people passing the OffSec Certified Professional (OSCP) exam!
-This notes should give you a guideline on how to contribute to the project.
+This notes should give you a guideline on how to contribute to any project.
 
 ## Table of Contents
 
@@ -13,9 +12,7 @@ This notes should give you a guideline on how to contribute to the project.
 
 ## Resources
 
-Please only contribute techniques and applications according to the official OffSec Exam Guide.
-
-- [OSCP Exam Guide](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide#exam-restrictions)
+Please only utilize techniques and applications according to the requirments.
 
 ## Styleguides
 
