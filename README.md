@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="/images/ ">
+  <img width="1100" height="600" src="/images/bug.png">
 </p>
 
 # Penetration Testing Cheat Sheet
